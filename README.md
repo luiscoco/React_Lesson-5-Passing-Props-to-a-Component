@@ -1,4 +1,4 @@
-# React Props Demo (Vite + React 19)
+# React 19.2 - Lesson 5 - Props Demo (Vite + React 19)
 
 A tiny app to practice:
 - Passing props parent → child
