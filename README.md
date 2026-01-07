@@ -9,6 +9,10 @@ A small React app that demonstrates how props flow through components, including
 - Compose UI with the `children` prop.
 - Update props over time with state and effects.
 
+<img width="1361" height="780" alt="image" src="https://github.com/user-attachments/assets/56192bdf-835e-4917-8661-5a038573f57c" />
+
+<img width="1216" height="503" alt="image" src="https://github.com/user-attachments/assets/87d88886-20a7-448b-bf30-738f85f57f72" />
+
 ## Code snippets
 
 Passing and forwarding props
